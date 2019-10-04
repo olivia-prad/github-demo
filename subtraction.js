@@ -1,3 +1,6 @@
+/**
+ * Fonction de soustraction
+ */
 function subtract(a, b) {
   return a-b;
 }
